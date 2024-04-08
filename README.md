@@ -29,7 +29,7 @@ This calls for an automated system to adapt to the varying needs of plants, prov
 
 ### Connectivity and Control
 
-- ** Integration with ESP32**: To enhance the project's capabilities, we to integrated an ESP32 microcontroller. This will enable IoT connectivity through the Blynk Cloud service, adding a layer of complexity and functionality to our project.We used the alert the system from Bylnk to alert the users through email when critical levels of mositure and water level are reached.
+- **Integration with ESP32**: To enhance the project's capabilities, we to integrated an ESP32 microcontroller. This will enable IoT connectivity through the Blynk Cloud service, adding a layer of complexity and functionality to our project.We used the alert the system from Bylnk to alert the users through email when critical levels of mositure and water level are reached.
 
 - **Remote Watering via Smartphone**: With the introduction of Blynk Cloud connectivity, users will be able to water their plants remotely with just a click on their smartphone. This feature is designed for users who wish to care for their plants, even when they are not in close proximity.
 
