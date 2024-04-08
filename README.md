@@ -5,12 +5,13 @@ This calls for an automated system to adapt to the varying needs of plants, prov
 
 # Circuit Diagram
 
-![Screenshot 2024-03-15 220541](https://github.com/FawazSapa/Automated-Plant-Watering-System/assets/114939768/451d585d-34af-4fa3-a20d-985ca59f804d)
+![Screenshot 2024-04-07 235852](https://github.com/FawazSapa/Automated-Plant-Watering-System/assets/114939768/fe90aaa7-d7a6-44da-8797-5a3259a33089)
 
 
 
 
-## Current System Features
+
+##  System Features
 
 ### Sensors and Actuators
 
@@ -28,13 +29,8 @@ This calls for an automated system to adapt to the varying needs of plants, prov
 
 ### Connectivity and Control
 
-- **Future Integration with ESP32**: To enhance the project's capabilities, we plan to integrate an ESP32 microcontroller. This will enable IoT connectivity through the Blynk Cloud service, adding a layer of complexity and functionality to our project.
+- ** Integration with ESP32**: To enhance the project's capabilities, we to integrated an ESP32 microcontroller. This will enable IoT connectivity through the Blynk Cloud service, adding a layer of complexity and functionality to our project.We used the alert the system from Bylnk to alert the users through email when critical levels of mositure and water level are reached.
 
 - **Remote Watering via Smartphone**: With the introduction of Blynk Cloud connectivity, users will be able to water their plants remotely with just a click on their smartphone. This feature is designed for users who wish to care for their plants, even when they are not in close proximity.
 
-## Future Developments
-
-The addition of the ESP32 and integration with Blynk Cloud will transform our project into a comprehensive IoT device. This update aims to provide a prototype for remote plant care, showcasing the potential for a fully connected, smart gardening solution.
-
-We believe these enhancements will not only add complexity to our project but also offer a tangible example of how technology can be used to improve plant care and gardening practices.
 
